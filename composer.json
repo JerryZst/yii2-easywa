@@ -21,7 +21,7 @@
   },
   "autoload": {
     "psr-4": {
-      "easywa\\wapay\\": "src/"
+      "easywa\\yii2-wapay\\": "src/"
     }
   }
 }
