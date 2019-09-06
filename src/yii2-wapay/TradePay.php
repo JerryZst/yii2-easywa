@@ -21,9 +21,9 @@ class TradePay extends Component
 {
     protected $payWay;
 
-    protected $config;
+    public $config;
 
-    protected $channel;
+    public $channel;
 
     public function init()
     {
